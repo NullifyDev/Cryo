@@ -1,3 +1,0 @@
-To find all files within a library: sha256sum $(find Libraries/ -name '*.asm')
-
-Get "Library.VerifyIntegrity()" working along with "LibraryManager.VerifyIntegrity()"
