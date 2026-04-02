@@ -1,0 +1,16 @@
+{
+  "name": "core",
+  "author": "NullifyDev",
+  "version": "1.0.0",
+  "checksums": {
+    "windows/TBD": "1a7eeb471acd3a981174aa2a33f3af3453c08cd19ac88626abd056dfc325e2fd",
+    "linux64/input.asm": "c9d55b1131bd45628b872428119ef0b9ac1467a2c2063ff660bc971ce3ffcc4c",
+    "linux64/exit.asm": "0d196d8e4ec040aebe3b3f7ec25f0536c1cb0ec31e11529a8bb7daf6b2d3b044",
+    "linux64/strlen.asm": "7d9f789a8eb7570e6cb40fc7cb212c09a36dbf040e4b03d6896f962da1b941aa",
+    "linux64/print.asm": "d82116eb71d1eda02af52716925af5162dcd2dec1e409c6cf924b02e9c3cd617",
+    "linux32/input.asm": "d213ae11b6100ca8fa778bb9b6854feda2077aaa39279b9d202219e9f92a9759",
+    "linux32/exit.asm": "5d6ee8418cb5aa7276d9ed42fe6e3cfb46da2b150f9cf0974c745165f09097b9",
+    "linux32/strlen.asm": "d47355737a80afaf030092e5274fb0c273284e86c594e70fd15fbe17255e35d8",
+    "linux32/print.asm": "0222a3860ff2104ed464989d4af72312fbe730ef8a77fd53f9607187487ef436"
+  }
+}
